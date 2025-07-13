@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fatima-dev23.
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning MERN Stack.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email at fatimasarwar105@gmail.com.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: i love nice food.
